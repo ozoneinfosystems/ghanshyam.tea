@@ -1,0 +1,48 @@
+a:link {
+	font-family: Verdana;
+	font-size: 11px;
+	color: #CC6600;
+	text-decoration: none;
+	font-weight: bold;
+}
+a:visited {
+	font-family: Verdana;
+	font-size: 11px;
+	color: #CC6600;
+	text-decoration: none;
+	font-weight: bold;
+}
+a:hover {
+	font-family: Verdana;
+	font-size: 11px;
+	color: #FF0000;
+	font-weight: bold;
+	text-decoration: underline;
+}
+a:active {
+	font-family: Verdana;
+	font-size: 11px;
+	color: #CC6600;
+	text-decoration: none;
+	font-weight: bold;
+}
+.info {
+	font-family: Verdana;
+	font-size: 11px;
+	font-weight: normal;
+	color: #333333;
+	line-height: 18px;
+}h6 {
+	font-family: Verdana;
+	font-size: 16px;
+	font-weight: bold;
+	color: #757575;
+	text-decoration: none;
+}
+.heading {
+
+	font-family: Verdana;
+	font-size: 20px;
+	font-weight: bold;
+	color: #CC9900;
+}
